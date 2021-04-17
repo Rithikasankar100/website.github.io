@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-This is insanely cool. I have a fucking website yo. 
+Going to delete this change soon
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
