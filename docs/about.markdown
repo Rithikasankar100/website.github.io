@@ -3,4 +3,4 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-Coming soon
+I'm Adithya Narayan
