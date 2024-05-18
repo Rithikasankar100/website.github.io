@@ -9,7 +9,7 @@ Hi, I'm Adi. I'm doing my PhD in Neuroscience with Matt Smith, Aaron Batista, St
 
 * [Dissociable components of attention exhibit distinct neuronal signatures in primate visual cortex](https://www.science.org/doi/10.1126/sciadv.adi0645).
 Adithya Narayan Chandrasekaran<sup>*</sup>,Ayesha Vermani<sup>*</sup>, Priyanka Gupta, Nicholas Steinmetz, Tirin Moore, Devarajan Sridharan. Science Advances 2024
-![image info](./assets/sciadv_2024.png)
+![image info](assets/sciadv_2024.png)
 
 
 
