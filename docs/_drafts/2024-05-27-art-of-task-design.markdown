@@ -14,3 +14,7 @@ Resources:
 2. Chris Fetsch's paper on task design
 
 3. I think Kiani has a paper on it too.
+
+# Things to try: 
+
+https://codepen.io/ksenia-k/pen/vYwgrWv
