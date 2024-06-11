@@ -11,8 +11,8 @@ You can perform the task here: [Focus Task](https://adithyanarayan101.github.io/
 
 At the end of the task, you can view a few summary plots of your behavior that look like this (but hopefully you perform better than me!): 
 
-![alt text](image.png)
+![alt text](/assets/focus_task_figs/focus.png)
 
-![alt text](image-1.png)
+![alt text](/assets/focus_task_figs/reward.png)
 
-![alt text](image-2.png)
+![alt text](/assets/focus_task_figs/targetsize.png)
