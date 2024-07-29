@@ -5,14 +5,14 @@
 layout: home
 title: ''
 ---
-<img width="200" align=right id="profile" src="/assets/brain_fun.png"/>
-## Hi. I'm Adi. Welcome to my website! 
+<img width="200" align=right id="profile" src="/assets/rithika_headshot.png"/>
+## Hi. I'm Rithika Sankar. Welcome to my website! 
 <br>
-I'm doing my PhD in Neuroscience with the amazing MS.SCABBY ([Matt Smith](https://smithlab.net/){:target="_blank"}, [Steve Chase](https://chaselab.github.io/){:target="_blank"}, [Aaron Batista](https://smile.pitt.edu/){:target="_blank"}, & [Byron Yu](https://users.ece.cmu.edu/~byronyu/){:target="_blank"}) at [CNUP](https://www.cnup.pitt.edu/about){:target="_blank"} & [CNBC](https://www.cnbc.cmu.edu/){:target="_blank"}.
+I'm doing my PhD in Systems Biology with Dr. Sarah Hainer at the University of Pittsburgh.
 
-Previously, I was a research assistant at the Center for Neuroscience at IISc Bangalore. Before that, I studied Engineering Physics at NIT Calicut. 
+Previously, I was a research assistant at the National Center for Biological Sciences (NCBS Bangalore, India). Before that, I worked at the University of Washington Seattle with Dr. Hannelle Ruola Baker. I studied Genetic Engineering at SRM. 
 
-You can learn more about my research here: [Research](https://adithyanarayan101.github.io/about)
+
 
 
 
